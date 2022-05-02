@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'ArchyEDT-Bold';
+    src: url('archyedt-bold/fonts/archyedt-bold-webfont.eot'); /* IE9 Compat Modes */
+    src: url('archyedt-bold/fonts/archyedt-bold-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('archyedt-bold/fonts/archyedt-bold-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('archyedt-bold/fonts/archyedt-bold-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('archyedt-bold/fonts/archyedt-bold-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('archyedt-bold/fonts/archyedt-bold-webfont.svg#archyedt-bold') format('svg'); /* Legacy iOS */
+}
+@font-face {
+    font-family: 'ArchyEDT-Thin';
+    src: url('archyedt-thin/fonts/archyedt-thin-webfont.eot'); /* IE9 Compat Modes */
+    src: url('archyedt-thin/fonts/archyedt-thin-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('archyedt-thin/fonts/archyedt-thin-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('archyedt-thin/fonts/archyedt-thin-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('archyedt-thin/fonts/archyedt-thin-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('archyedt-thin/fonts/archyedt-thin-webfont.svg#archyedt-thinregular') format('svg'); /* Legacy iOS */
+}
