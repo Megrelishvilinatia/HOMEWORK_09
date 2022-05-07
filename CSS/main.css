@@ -95,4 +95,35 @@ h2{
     margin: 0 auto;
     display: table;
 }
+.contact{
+    display: flex;
+    flex-direction: column;
+    color: #F2F2F2;
 
+}
+.address{
+    display: flex;
+    flex-direction: column;
+    color: #F2F2F2;
+}
+.contact-two{
+    font-size: 20px;
+    font-family: ArchyEDT-Bold;
+}
+.address{
+    font-size: 20px;
+    font-family: ArchyEDT-Bold;
+}
+.same{
+    font-size: 13px;
+    font-family: font-size: 20px;
+    font-family: ArchyEDT-Thin;
+}
+.box{
+    align-items: center;
+    height: 204px;
+
+}
+footer{
+    background-color: #2E2E2E;
+}
